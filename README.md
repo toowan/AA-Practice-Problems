@@ -1,2 +1,2 @@
 # AA-Practice-Problems
-App Academy Practice Problems Solutions
+App Academy Practice Problems & Solutions
